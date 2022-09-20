@@ -1,2 +1,3 @@
-# screen_recorder181199_mm
- 
+#Screen Recorder
+##Andrej Veljanovski 181199
+###Proekt po predmetot Multimediski Mrezi
